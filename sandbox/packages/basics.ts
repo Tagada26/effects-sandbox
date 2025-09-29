@@ -79,3 +79,5 @@ const program2 = getTodo(1);
 // tryPromise     (overload)	() => Promise<A>, unknown => E	Effect<A, E>
 // async	        (Effect<A, E> => void) => void	            Effect<A, E>
 // suspend	      () => Effect<A, E, R>	                      Effect<A, E, R>
+
+// link to other effect constructor https://effect-ts.github.io/effect/effect/Effect.ts.html#constructors
